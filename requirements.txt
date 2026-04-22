@@ -1,0 +1,7 @@
+google-genai
+streamlit
+feedparser
+requests
+pandas
+plotly
+python-dotenv
